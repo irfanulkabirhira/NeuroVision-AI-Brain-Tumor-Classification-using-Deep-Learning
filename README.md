@@ -20,7 +20,7 @@ Brain tumors are among the most critical neurological disorders, and early detec
 ---
 
 ## 🧩 Dataset
-![image alt](https://github.com/irfanulkabirhira/Netflix-Movies-and-TV-Shows-Power-BI-Dashboard/blob/8471ff049c0903a5bf9e193057ec20de6e5188b3/netflix%20deshboard.png)
+![image alt](https://github.com/irfanulkabirhira/NeuroVision-AI-Brain-Tumor-Classification-using-Deep-Learning/blob/9bee5126befecdc68ecd4e2aedbf3135ba61b4b9/Datasest%20Splition.png)
 The model is trained on MRI brain scan images categorized into four classes:
 
 - Glioma Tumor  
